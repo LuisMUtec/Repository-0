@@ -6,3 +6,5 @@ Hola, mi nombre es Frances.
 Soy estudiante de Administración y
 Negocios Digitales  en UTEC.
 
+## Carlos Quispe
+Estudiante de CS en UTEC, tercer ciclo.
