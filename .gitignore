@@ -1,0 +1,59 @@
+
+__pycache__/
+*.py[cod]
+.python-version
+venv/
+.venv/
+env/
+pip-selfcheck.json
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+
+.env                # Variables de entorno (¡NUNCA versionar!)
+.env.local         
+.env.*.local
+secrets.json
+
+
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# JetBrains (PyCharm, etc.)
+.idea/
+*.iml
+
+# =====================
+# Sistemas operativos  
+# =====================
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# =====================
+# Archivos generados  
+# =====================
+# Logs
+*.log
+logs/
+
+# Build/compilación
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.out
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
