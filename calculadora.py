@@ -27,5 +27,3 @@ if __name__ == "__main__":
             print("Resultado:", resultado)
         except Exception as e:
             print("Error:", e)
-
-Closes #2
